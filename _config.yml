@@ -102,11 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "James Lambert"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/Desktop/webpic.jpeg"
   bio              : "Data Science Portfolio"
   location         : "Bay Area, CA"
   email            : "Jrlambert1@gmail.com"
-  Linkedine        : "https://www.linkedin.com/in/james-lambert-01"
   links:
     - label: "Email"
       icon: "Jrlambert1"
