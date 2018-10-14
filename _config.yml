@@ -274,30 +274,16 @@ compress_html:
   ignore:
     envs: development
 
-# dildo supreme
 # Defaults
-# defaults:
+defaults:
   # _posts
-<<<<<<< HEAD
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: # true
-  #     share: true
-  #     related: true
-=======
   - scope:
       path: ""
       type: posts
     values:
-#      layout: single
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
->>>>>>> fb8927c970a4351a32f130b8c6c77d2b7c3abb5e
