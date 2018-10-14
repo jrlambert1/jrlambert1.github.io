@@ -106,13 +106,14 @@ author:
   bio              : "Data Science Portfolio"
   location         : "Bay Area, CA"
   email            : "Jrlambert1@gmail.com"
+  Linkedine        : "https://www.linkedin.com/in/james-lambert-01"
   links:
     - label: "Email"
       icon: "Jrlambert1"
       # url: mailto:jrlambert1@gmail.com
-    - label: "Linkedin"
-      icon: "fa fa-linkedin-square"
-      url: "https://www.linkedin.com/in/james-lambert-01"
+    # - label: "Linkedin"
+    #   icon: "fa fa-linkedin-square"
+    #   url: "https://www.linkedin.com/in/james-lambert-01"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
