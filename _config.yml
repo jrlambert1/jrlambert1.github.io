@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "James Lambert"
-  avatar           : "/Users/jameslambert/Desktop/webpic.jpeg"
+  avatar           : "https://github.com/jrlambert1/jrlambert1.github.io/blob/master/webpic.jpeg"
   bio              : "Data Science Portfolio"
   location         : "Bay Area, CA"
   email            : "Jrlambert1@gmail.com"
