@@ -106,16 +106,15 @@ author:
   bio              : "Data Science Portfolio"
   location         : "Bay Area, CA"
   email            : "Jrlambert1@gmail.com"
-
   links:
     - label: "Email"
       icon: "Jrlambert1"
       # url: mailto:jrlambert1@gmail.com
-    - label: "Website"
-      icon: "fab fa-fw fa-linkedin-square"
+    - label: "Linkedin"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/james-lambert-01"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -126,8 +125,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jrlambert1/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
